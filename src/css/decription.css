@@ -1,0 +1,10 @@
+.apps-list {
+  padding: 5rem;
+}
+.links {
+  padding-top: 2.5rem;
+}
+.links p a{
+  color: darkslategray;
+  font-size: 1.2rem;
+}
